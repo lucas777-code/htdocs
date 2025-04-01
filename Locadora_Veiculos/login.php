@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
         <style>
             .login-container{
-                max-widht:400px;
+                max-width:400px;
                 margin: 100px auto;
             }
             .password-toggle{
