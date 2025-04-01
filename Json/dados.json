@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Lucas",
+        "data": "2008-09-08",
+        "valor": "44"
+    },
+    {
+        "nome": "Lucas",
+        "data": "2009-09-09",
+        "valor": "44"
+    },
+    {
+        "nome": "Nadja",
+        "data": "2025-04-09",
+        "idade": "9"
+    },
+    {
+        "nome": "Lucas",
+        "data": "2000-05-05",
+        "idade": "9"
+    }
+]

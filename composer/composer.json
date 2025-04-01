@@ -1,0 +1,17 @@
+{
+    "name": "dev_2o_ano/composer",
+    "autoload": {
+        "psr-4": {
+            "Dev2oAno\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucas777-code",
+            "email": "lucascomparini0@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
